@@ -1,0 +1,636 @@
+Input: Docker
+Domain: DevOps
+Profession: DevOps Engineer
+Reason: Containerize applications and standardize deployments
+Skills: Linux, Dockerfiles, CI/CD
+
+Input: Docker
+Domain: Cloud Computing
+Profession: Cloud Engineer
+Reason: Package applications for cloud deployment
+Skills: AWS, Networking, Container Registries
+
+Input: Docker
+Domain: Platform Engineering
+Profession: Platform Engineer
+Reason: Create consistent developer environments
+Skills: Kubernetes, CI/CD, Automation
+
+Input: Docker
+Domain: MLOps
+Profession: MLOps Engineer
+Reason: Package machine learning workloads reproducibly
+Skills: Python, Model Serving, Monitoring
+
+Input: Kubernetes
+Domain: Cloud Native Infrastructure
+Profession: Kubernetes Engineer
+Reason: Orchestrate containerized applications
+Skills: Docker, Networking, YAML
+
+Input: Kubernetes
+Domain: Site Reliability Engineering
+Profession: SRE
+Reason: Improve service availability and scaling
+Skills: Monitoring, Linux, Incident Response
+
+Input: Terraform
+Domain: Infrastructure as Code
+Profession: Infrastructure Engineer
+Reason: Provision infrastructure through version-controlled configuration
+Skills: HCL, Cloud IAM, Networking
+
+Input: Ansible
+Domain: Configuration Management
+Profession: Automation Engineer
+Reason: Automate server configuration
+Skills: Linux, YAML, SSH
+
+Input: GitHub Actions
+Domain: CI/CD
+Profession: DevOps Engineer
+Reason: Automate builds and deployments
+Skills: Git, YAML, Testing
+
+Input: Jenkins
+Domain: Build Automation
+Profession: Build Engineer
+Reason: Automate software build and release pipelines
+Skills: Groovy, Git, CI/CD
+
+Input: Linux
+Domain: Systems Administration
+Profession: Systems Engineer
+Reason: Manage operating systems and services
+Skills: Shell, Processes, Permissions
+
+Input: Bash
+Domain: Infrastructure Automation
+Profession: DevOps Engineer
+Reason: Automate command-line workflows
+Skills: Linux, Shell Scripting, Cron
+
+Input: AWS
+Domain: Cloud Computing
+Profession: Cloud Engineer
+Reason: Deploy and operate cloud workloads
+Skills: IAM, VPC, EC2, S3
+
+Input: AWS S3
+Domain: Cloud Storage
+Profession: Cloud Engineer
+Reason: Store files and application assets
+Skills: IAM, Encryption, Bucket Policies
+
+Input: AWS Lambda
+Domain: Serverless Computing
+Profession: Serverless Engineer
+Reason: Run event-driven functions without managing servers
+Skills: Python, IAM, API Gateway
+
+Input: Azure
+Domain: Cloud Computing
+Profession: Azure Cloud Engineer
+Reason: Build and operate cloud infrastructure
+Skills: Azure Networking, Identity, Compute
+
+Input: Google Cloud
+Domain: Cloud Computing
+Profession: Cloud Engineer
+Reason: Deploy applications and cloud services
+Skills: IAM, Compute, Cloud Storage
+
+Input: Nginx
+Domain: Web Infrastructure
+Profession: Infrastructure Engineer
+Reason: Route HTTP traffic and serve static content
+Skills: HTTP, TLS, Reverse Proxy
+
+Input: Cloudflare
+Domain: Edge Networking
+Profession: Network Engineer
+Reason: Improve content delivery and manage edge traffic
+Skills: DNS, HTTP, Caching
+
+Input: Prometheus
+Domain: Observability
+Profession: SRE
+Reason: Collect and query application metrics
+Skills: Metrics, PromQL, Alerting
+
+Input: Grafana
+Domain: Monitoring
+Profession: Observability Engineer
+Reason: Visualize metrics and operational signals
+Skills: Dashboards, Prometheus, Alerting
+
+Input: OpenTelemetry
+Domain: Distributed Observability
+Profession: Platform Engineer
+Reason: Instrument services with traces metrics and logs
+Skills: Tracing, Instrumentation, Telemetry
+
+Input: Redis
+Domain: Caching
+Profession: Backend Engineer
+Reason: Cache frequently accessed data
+Skills: TTL, Cache Invalidation, Data Structures
+
+Input: Redis
+Domain: Real-Time Systems
+Profession: Backend Engineer
+Reason: Support low-latency data access and coordination
+Skills: Pub/Sub, Streams, Concurrency
+
+Input: PostgreSQL
+Domain: Relational Databases
+Profession: Backend Engineer
+Reason: Store transactional application data
+Skills: SQL, Indexes, Transactions
+
+Input: PostgreSQL
+Domain: Data Engineering
+Profession: Data Engineer
+Reason: Query and transform structured datasets
+Skills: SQL, ETL, Data Modeling
+
+Input: MongoDB
+Domain: Document Databases
+Profession: Backend Engineer
+Reason: Store flexible document-oriented data
+Skills: Document Modeling, Indexes, Aggregation
+
+Input: Prisma
+Domain: Database Access
+Profession: Full Stack Engineer
+Reason: Access databases through a typed client
+Skills: TypeScript, SQL, Migrations
+
+Input: MySQL
+Domain: Relational Databases
+Profession: Database Engineer
+Reason: Manage relational application data
+Skills: SQL, Indexes, Backups
+
+Input: SQLite
+Domain: Embedded Databases
+Profession: Application Developer
+Reason: Store structured data inside local applications
+Skills: SQL, Transactions, Schema Design
+
+Input: Python
+Domain: Backend Development
+Profession: Backend Engineer
+Reason: Build APIs and server-side application logic
+Skills: FastAPI, SQL, Testing
+
+Input: Python
+Domain: Machine Learning
+Profession: ML Engineer
+Reason: Prepare data and develop machine learning models
+Skills: NumPy, PyTorch, Statistics
+
+Input: Python
+Domain: Data Analytics
+Profession: Data Analyst
+Reason: Clean analyze and visualize datasets
+Skills: Pandas, SQL, Statistics
+
+Input: Python
+Domain: Automation
+Profession: Automation Engineer
+Reason: Automate repetitive workflows
+Skills: Scripting, APIs, File Processing
+
+Input: FastAPI
+Domain: Python API Development
+Profession: Backend Engineer
+Reason: Expose Python functionality through HTTP APIs
+Skills: Python, Pydantic, HTTP
+
+Input: Django
+Domain: Web Application Development
+Profession: Python Developer
+Reason: Build database-backed web applications
+Skills: Python, ORM, Authentication
+
+Input: Flask
+Domain: Lightweight Web Services
+Profession: Python Developer
+Reason: Build small web applications and APIs
+Skills: Python, HTTP, Routing
+
+Input: NumPy
+Domain: Numerical Computing
+Profession: Data Scientist
+Reason: Perform numerical operations on arrays
+Skills: Python, Arrays, Linear Algebra
+
+Input: Pandas
+Domain: Data Wrangling
+Profession: Data Analyst
+Reason: Clean merge and transform tabular data
+Skills: Python, DataFrames, Data Cleaning
+
+Input: PyTorch
+Domain: Deep Learning
+Profession: Deep Learning Engineer
+Reason: Build and train neural networks
+Skills: Python, Tensors, Optimization
+
+Input: TensorFlow
+Domain: Deep Learning
+Profession: ML Engineer
+Reason: Develop and deploy machine learning models
+Skills: Python, Neural Networks, Model Evaluation
+
+Input: scikit-learn
+Domain: Classical Machine Learning
+Profession: Data Scientist
+Reason: Train and evaluate traditional ML models
+Skills: Statistics, Feature Engineering, Python
+
+Input: Hugging Face Transformers
+Domain: LLM Engineering
+Profession: LLM Engineer
+Reason: Load and fine-tune pretrained transformer models
+Skills: Python, Tokenization, Model Evaluation
+
+Input: Hugging Face Datasets
+Domain: AI Data Preparation
+Profession: ML Engineer
+Reason: Load process and manage model datasets
+Skills: Python, Data Cleaning, Dataset Splits
+
+Input: Jupyter
+Domain: Data Exploration
+Profession: Data Scientist
+Reason: Run interactive experiments and analysis
+Skills: Python, Visualization, Statistics
+
+Input: OpenCV
+Domain: Computer Vision
+Profession: Computer Vision Engineer
+Reason: Process images and video
+Skills: Python, Image Processing, Linear Algebra
+
+Input: YOLO
+Domain: Object Detection
+Profession: Computer Vision Engineer
+Reason: Detect and localize objects in images
+Skills: Python, Computer Vision, Model Evaluation
+
+Input: R
+Domain: Statistical Computing
+Profession: Statistician
+Reason: Perform statistical analysis and modeling
+Skills: Probability, Statistics, Data Visualization
+
+Input: SQL
+Domain: Data Analytics
+Profession: Data Analyst
+Reason: Query aggregate and interpret structured data
+Skills: Joins, Grouping, Window Functions
+
+Input: Apache Spark
+Domain: Distributed Data Processing
+Profession: Data Engineer
+Reason: Process large datasets across distributed systems
+Skills: SQL, Partitions, Python
+
+Input: Apache Kafka
+Domain: Event Streaming
+Profession: Streaming Engineer
+Reason: Move event data between distributed services
+Skills: Partitions, Consumer Groups, Event Schemas
+
+Input: Apache Airflow
+Domain: Data Orchestration
+Profession: Data Engineer
+Reason: Schedule and monitor data workflows
+Skills: Python, DAGs, Retries
+
+Input: dbt
+Domain: Analytics Engineering
+Profession: Analytics Engineer
+Reason: Build tested SQL transformation models
+Skills: SQL, Data Modeling, Git
+
+Input: Apache Flink
+Domain: Stream Processing
+Profession: Streaming Data Engineer
+Reason: Process continuous event streams
+Skills: Event Time, Stateful Processing, Kafka
+
+Input: Power BI
+Domain: Business Intelligence
+Profession: BI Analyst
+Reason: Build interactive business dashboards
+Skills: DAX, Data Modeling, Power Query
+
+Input: Tableau
+Domain: Data Visualization
+Profession: Data Analyst
+Reason: Explore and communicate data patterns visually
+Skills: Charts, Data Preparation, Analytics
+
+Input: Excel
+Domain: Business Analysis
+Profession: Business Analyst
+Reason: Analyze business data and prepare reports
+Skills: Formulas, Pivot Tables, Charts
+
+Input: React
+Domain: Frontend Development
+Profession: Frontend Engineer
+Reason: Build reusable interactive UI components
+Skills: JavaScript, HTML, CSS
+
+Input: Next.js
+Domain: Full Stack Web Development
+Profession: Full Stack Engineer
+Reason: Build web applications with routing and server capabilities
+Skills: React, TypeScript, HTTP
+
+Input: Vue.js
+Domain: Frontend Development
+Profession: Frontend Engineer
+Reason: Build component-based web interfaces
+Skills: JavaScript, HTML, CSS
+
+Input: Angular
+Domain: Enterprise Frontend Development
+Profession: Frontend Engineer
+Reason: Build structured client-side applications
+Skills: TypeScript, RxJS, Components
+
+Input: Node.js
+Domain: Backend Development
+Profession: Backend Engineer
+Reason: Build network services using JavaScript
+Skills: JavaScript, HTTP, Async I/O
+
+Input: Express.js
+Domain: REST API Development
+Profession: Backend Engineer
+Reason: Create HTTP routes and middleware
+Skills: Node.js, HTTP, Authentication
+
+Input: TypeScript
+Domain: Type Safe Web Development
+Profession: Full Stack Engineer
+Reason: Improve maintainability through static type checking
+Skills: JavaScript, Types, Generics
+
+Input: Tailwind CSS
+Domain: UI Engineering
+Profession: Frontend Developer
+Reason: Style responsive interfaces using utility classes
+Skills: CSS, Responsive Design, Accessibility
+
+Input: HTML
+Domain: Web Development
+Profession: Frontend Developer
+Reason: Structure web page content
+Skills: Semantic HTML, Accessibility, Forms
+
+Input: CSS
+Domain: Web Styling
+Profession: Frontend Developer
+Reason: Control layout typography and responsive presentation
+Skills: Flexbox, Grid, Responsive Design
+
+Input: GraphQL
+Domain: API Development
+Profession: Backend Engineer
+Reason: Provide typed APIs with client-selected data
+Skills: Schema Design, Resolvers, Authorization
+
+Input: REST API
+Domain: Service Integration
+Profession: Backend Engineer
+Reason: Expose resources through HTTP interfaces
+Skills: HTTP, Status Codes, Authentication
+
+Input: WebSockets
+Domain: Real Time Web Applications
+Profession: Full Stack Engineer
+Reason: Enable bidirectional communication between clients and servers
+Skills: Networking, Events, Connection Management
+
+Input: OAuth 2.0
+Domain: Identity Integration
+Profession: Backend Engineer
+Reason: Enable delegated authorization to external services
+Skills: Redirect Flows, Scopes, Token Security
+
+Input: JWT
+Domain: API Security
+Profession: Backend Engineer
+Reason: Represent signed claims for token-based systems
+Skills: Signing, Expiry, Validation
+
+Input: Playwright
+Domain: End to End Testing
+Profession: QA Automation Engineer
+Reason: Automate browser-based application workflows
+Skills: Test Design, Selectors, CI
+
+Input: Jest
+Domain: JavaScript Testing
+Profession: Software Engineer
+Reason: Test functions and modules in JavaScript projects
+Skills: Assertions, Mocks, Coverage
+
+Input: Cypress
+Domain: Frontend Testing
+Profession: QA Engineer
+Reason: Test web applications in a browser
+Skills: JavaScript, Selectors, Assertions
+
+Input: Git
+Domain: Version Control
+Profession: Software Engineer
+Reason: Track code changes and collaborate
+Skills: Branches, Commits, Merging
+
+Input: Java
+Domain: Enterprise Backend Development
+Profession: Java Developer
+Reason: Build server-side enterprise applications
+Skills: OOP, JVM, SQL
+
+Input: Spring Boot
+Domain: Java API Development
+Profession: Backend Engineer
+Reason: Build production-ready Java services
+Skills: Java, Dependency Injection, REST
+
+Input: C
+Domain: Embedded Systems
+Profession: Embedded Engineer
+Reason: Develop low-level software with hardware constraints
+Skills: Pointers, Memory, Microcontrollers
+
+Input: C++
+Domain: Systems Programming
+Profession: Systems Engineer
+Reason: Build performance-sensitive software
+Skills: Memory Management, Concurrency, Profiling
+
+Input: Go
+Domain: Cloud Services
+Profession: Backend Engineer
+Reason: Build network services and infrastructure tools
+Skills: Concurrency, HTTP, Testing
+
+Input: Rust
+Domain: Systems Programming
+Profession: Systems Engineer
+Reason: Build memory-safe low-level software
+Skills: Ownership, Lifetimes, Concurrency
+
+Input: Swift
+Domain: iOS Development
+Profession: iOS Developer
+Reason: Build native applications for Apple platforms
+Skills: SwiftUI, App Lifecycle, Networking
+
+Input: Kotlin
+Domain: Android Development
+Profession: Android Developer
+Reason: Build Android applications
+Skills: Android SDK, Coroutines, UI
+
+Input: Flutter
+Domain: Cross Platform Mobile Development
+Profession: Mobile Developer
+Reason: Build apps from a shared codebase
+Skills: Dart, Widgets, State Management
+
+Input: Figma
+Domain: UI UX Design
+Profession: Product Designer
+Reason: Create interface designs and prototypes
+Skills: Wireframing, Prototyping, Design Systems
+
+Input: Unity
+Domain: Game Development
+Profession: Game Developer
+Reason: Build interactive games and 3D experiences
+Skills: C#, Physics, Game Loops
+
+Input: Unreal Engine
+Domain: Real Time 3D
+Profession: 3D Application Developer
+Reason: Build real-time 3D experiences and simulations
+Skills: Blueprints, C++, Rendering
+
+Input: Solidity
+Domain: Smart Contract Development
+Profession: Blockchain Developer
+Reason: Implement programs on EVM-compatible blockchains
+Skills: EVM, Testing, Security Audits
+
+Input: Elasticsearch
+Domain: Search Systems
+Profession: Search Engineer
+Reason: Index and retrieve text and event data
+Skills: Indexing, Query DSL, Relevance
+
+Input: Qdrant
+Domain: Vector Search
+Profession: AI Application Engineer
+Reason: Retrieve semantically similar vector records
+Skills: Embeddings, Similarity Search, Filtering
+
+Input: Langfuse
+Domain: LLM Observability
+Profession: LLM Engineer
+Reason: Trace and evaluate LLM application behavior
+Skills: Tracing, Prompt Evaluation, Latency Analysis
+
+Input: MLflow
+Domain: ML Experiment Tracking
+Profession: ML Engineer
+Reason: Track experiments and manage model artifacts
+Skills: Metrics, Artifacts, Reproducibility
+
+Input: OpenAI API
+Domain: LLM Application Development
+Profession: AI Application Engineer
+Reason: Integrate hosted language models into applications
+Skills: HTTP APIs, Prompt Testing, Evaluation
+
+Input: Vault
+Domain: Secrets Management
+Profession: Platform Security Engineer
+Reason: Manage application secrets and access policies
+Skills: Identity, Policies, Rotation
+
+Input: OWASP ZAP
+Domain: Application Security Testing
+Profession: Application Security Engineer
+Reason: Test web applications for security weaknesses
+Skills: HTTP, Threat Modeling, Remediation
+
+Input: Burp Suite
+Domain: Web Security Testing
+Profession: Penetration Tester
+Reason: Inspect and test authorized web application traffic
+Skills: HTTP, Web Vulnerabilities, Reporting
+
+Input: Ansible
+Domain: Server Automation
+Profession: Systems Engineer
+Reason: Apply repeatable configurations across servers
+Skills: YAML, SSH, Idempotency
+
+Input: Helm
+Domain: Kubernetes Packaging
+Profession: Platform Engineer
+Reason: Package and configure Kubernetes applications
+Skills: Kubernetes, Templates, YAML
+
+Input: CDN
+Domain: Web Performance
+Profession: Performance Engineer
+Reason: Cache and deliver content near users
+Skills: HTTP Caching, Cache Keys, Invalidation
+
+Input: DNS
+Domain: Networking
+Profession: Network Engineer
+Reason: Resolve domain names to network records
+Skills: Records, Resolvers, Troubleshooting
+
+Input: TCP IP
+Domain: Network Engineering
+Profession: Network Engineer
+Reason: Understand communication between networked systems
+Skills: IP Addressing, Routing, Ports
+
+Input: NLP
+Domain: Natural Language Processing
+Profession: NLP Engineer
+Reason: Build systems that process human language
+Skills: Python, Tokenization, Evaluation
+
+Input: Reinforcement Learning
+Domain: AI Research
+Profession: Research Engineer
+Reason: Train agents through rewards and interaction
+Skills: Probability, Optimization, RL Algorithms
+
+Input: Recommendation Systems
+Domain: Personalization
+Profession: Machine Learning Engineer
+Reason: Rank items for users based on preferences and context
+Skills: Ranking, Evaluation, Feature Engineering
+
+Input: Data Structures and Algorithms
+Domain: Software Engineering
+Profession: Software Engineer
+Reason: Design efficient solutions to computational problems
+Skills: Complexity Analysis, Arrays, Trees, Graphs
+
