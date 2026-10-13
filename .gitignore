@@ -1,0 +1,8 @@
+.venv/
+frontend/node_modules/
+frontend/.next/
+backend-models/.venv/
+backend-models/checkpoints/
+**/__pycache__/
+*.py[cod]
+.frontend-git-backup/
