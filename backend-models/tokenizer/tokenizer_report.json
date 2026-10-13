@@ -1,0 +1,13 @@
+{
+  "input_file": "C:\\Users\\RDX\\Desktop\\domain-suggesion-llm\\backend-models\\data\\cleaned\\row.json",
+  "record_count": 106,
+  "vocab_size_requested": 8192,
+  "vocab_size_actual": 1891,
+  "special_tokens": [
+    "<pad>",
+    "<unk>",
+    "<bos>",
+    "<eos>"
+  ],
+  "tokenizer_type": "ByteLevel BPE"
+}
